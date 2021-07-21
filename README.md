@@ -1,2 +1,2 @@
 # PrivilegeEscalation
-Bypassing AV and EDR
+### Demonstration purpose only
